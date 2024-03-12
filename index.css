@@ -12,10 +12,11 @@ h2  {
     text-align: center;
 }
 
-h3  {
+h3, .text-align-center  {
     color: white;
     background-color: green;
     font-weight: bold;
+    text-align: center;
 }
 
 .center {
